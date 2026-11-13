@@ -1,0 +1,7 @@
+sample	group
+Pt2	Pt2
+Pt4	Pt4
+Pt5	Pt5
+Pt7	Pt7
+Pt9	Pt9
+Pt11	Pt11
